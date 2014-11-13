@@ -1,0 +1,10 @@
+/* Your Website Styles */
+body {
+	font-family: 'Anton', sans-serif;
+	background: url('../img/brickwall.png')
+}
+
+p {
+	text-align: center;
+}
+/* Show Grid */
